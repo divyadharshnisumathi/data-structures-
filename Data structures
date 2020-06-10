@@ -1,0 +1,11 @@
+list = [] 
+my_tuple = ('p','e','r','m','i','t')
+dict = {1,2,3,4,5,6,7} 
+list.append("Python")
+list.append("Programming")
+print(list)
+print(my_tuple[0]) 
+print(my_tuple[5]) 
+print(dict.pop(2)) 
+print (dict.pop(4))
+print(dict)
